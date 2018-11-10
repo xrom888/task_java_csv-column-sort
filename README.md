@@ -6,13 +6,17 @@ Java interview task to sort CVS file columns alphabetically.
 4. Only siple arrays can be used, use of java.collection classes are not 
 
 Example input:
-- Jake,Allice,Bruce\n
-- 12,65,45\n
-- 545,345,878\n
-- 65,7,67
+```
+Jake,Allice,Bruce\n
+12,65,45\n
+545,345,878\n
+65,7,67
+```
 
 Example Output:
-  Allice,Bruce,Jake\n
-  65,45,12\n
-  345,878,545\n
-  7,67,65
+```
+Allice,Bruce,Jake\n
+65,45,12\n
+345,878,545\n
+7,67,65
+```

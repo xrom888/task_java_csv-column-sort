@@ -1,2 +1,1 @@
-# task_java_csv-column-sort
-Java interview task
+# Java interview task to sort CVS file columns alphabetically

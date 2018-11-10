@@ -1,6 +1,6 @@
 Java interview task to sort CVS file columns alphabetically.
 
-1. Java function receives a CSV string as input and should return CSV string as output with columns sorted by name alpahbetically.
+1. Java function receives a CSV string as input and should return CSV string as output with columns sorted by name alpahbetically (case insensetive).
 2. First line of file is a header with names.
 3. Empty spaces should be interpreted as empty strings.
 4. Lines separated by new line character "\n".
